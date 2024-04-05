@@ -1,0 +1,8 @@
+#cv .cv .area {
+    flex-direction: column;
+    align-items: center;
+}
+
+#cv .cv .area .area-img {
+    margin-bottom: 1rem;
+}
